@@ -33,4 +33,4 @@ return true;
 }
 
 // {a: 0, n: 0, g: 0, r: 0, m: 0,s:1}
-console.log(validAnagram('anagrams', 'nagaramm'))
+console.log(validAnagram('hockey', 'yhekco'))
